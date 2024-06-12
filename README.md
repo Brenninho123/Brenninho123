@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Breno
+- 👀 I’m interested in Fnf Games
+- 🌱 I’m currently learning school
+- 💞️ I’m looking to collaborate on my friends
+- 📫 How to reach me 
+- 😄 Pronouns: Brenninho 
+- ⚡ Fun fact: i am Brazilian 
+- 🚹 Genere: Masculine
+-  👀 Age: 13
