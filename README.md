@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fnf Games
 - 🌱 I’m currently learning school
 - 💞️ I’m looking to collaborate on my friends
-- 📫 How to reach me 
+- 📫 How to reach me in discord
 - 😄 Pronouns: Brenninho 
 - ⚡ Fun fact: i am Brazilian 
 - 🚹 Genere: Masculine
