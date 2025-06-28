@@ -6,4 +6,4 @@
 - 😄 Pronouns: Brenninho 
 - ⚡ Fun fact: i am Brazilian 
 - 🚹 Genere: Masculine
--  👀 Age: 13
+-  👀 Age: 14
