@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning school
 - 💞️ I’m looking to collaborate on my friends
 - 📫 How to reach me in discord
-- 😄 Pronouns: Brenninho 
+- 😄 Pronouns: Ander 
 - ⚡ Fun fact: i am Brazilian 
 - 🚹 Genere: Masculine
 -  👀 Age: 15
