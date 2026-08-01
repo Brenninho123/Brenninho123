@@ -1,5 +1,7 @@
 ### Hi, I'm Brenninho 👋
 
+🚀 **25+ projects** built and counting — engines, mobile ports, tools, and sites
+
 - 🎮 Game developer focused on **Friday Night Funkin'** (engines, mods, and mobile ports)
 - 🛠️ I work with **Haxe, HaxeFlixel, Lime, and OpenFL**
 - 🌱 Currently in school, learning and growing as a dev
@@ -20,16 +22,6 @@ A PWA that converts Psych Engine content (charts, characters, stages) to V-Slice
 <br>
 
 ### 🔧 Tech Stack
-
-
 ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white)
-
-
-
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-
-
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
