@@ -19,6 +19,9 @@ A client-side HTML/JS tool that parses FL Studio Desktop `.flp` projects and rec
 **[V-Stuff](https://github.com/Brenninho123/V-Stuff)**
 A PWA that converts Psych Engine content (charts, characters, stages) to V-Slice format and back, with a Psych ↔ V-Slice direction switcher.
 
+**[V-Slice-Modpacks](https://github.com/Brenninho123/V-Slice-Modpacks)**
+A modpack collection for Mods V-Slice.
+
 <br>
 
 ### 🔧 Tech Stack
