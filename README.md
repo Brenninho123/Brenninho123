@@ -9,6 +9,16 @@
 
 <br>
 
+### 🚀 Featured Projects
+
+**[FLP-to-FLM-Converter](https://github.com/Brenninho123/FLP-to-FLM-Converter)**
+A client-side HTML/JS tool that parses FL Studio Desktop `.flp` projects and reconstructs/exports MIDI, JSON, and experimental `.flm` files for FL Studio Mobile — no backend, no upload needed.
+
+**[V-Stuff](https://github.com/Brenninho123/V-Stuff)**
+A PWA that converts Psych Engine content (charts, characters, stages) to V-Slice format and back, with a Psych ↔ V-Slice direction switcher.
+
+<br>
+
 ### 🔧 Tech Stack
 
 
@@ -23,11 +33,3 @@
 
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-
-<br>
-
-
-
-![Brenninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenninho123&show_icons=true&theme=radical)
